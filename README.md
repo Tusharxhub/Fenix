@@ -1,0 +1,164 @@
+
+<h1 align="center">🎥 Yoom</h1>
+<p align="center">A sleek Google Meet-style video calling platform built with <b>Next.js</b>, <b>LiveKit</b>, and <b>Clerk</b>.</p>
+
+<p align="center">
+  <a href="https://yoom-psi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+  <img src="https://img.shields.io/github/languages/top/Tusharxhub/yoom?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/Tusharxhub/yoom?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Tusharxhub/yoom?style=for-the-badge" />
+</p>
+
+<br/>
+
+---
+
+## 🖼️ Live Preview
+
+<p align="center">
+  <a href="https://yoom-psi.vercel.app" target="_blank">
+    <img src="https://yoom-psi.vercel.app/og.png" width="85%" alt="Yoom Preview Image" />
+  </a>
+</p>
+
+> 🚀 **Check it out live:** [click me](https://yoom-psi.vercel.app)
+
+---
+
+## 🧩 Features
+
+✅ Modern UI with Tailwind  
+✅ Real-time video/audio using LiveKit  
+✅ Secure authentication via Clerk  
+✅ Create and join meeting rooms with unique IDs  
+✅ Responsive and mobile-friendly
+
+🔜 Upcoming Features:
+- 💬 In-call Chat Support  
+- 🖥️ Screen Sharing  
+- 🎨 Virtual Backgrounds  
+- 📊 Meeting Dashboard  
+- 🔔 Join/Leave Notifications
+
+---
+
+## 🧠 Tech Stack
+
+| Stack       | Usage                         |
+|-------------|-------------------------------|
+| `Next.js`   | Full-stack React framework    |
+| `Tailwind`  | Utility-first CSS             |
+| `LiveKit`   | WebRTC-based real-time engine |
+| `Clerk`     | Authentication & user mgmt    |
+| `Vercel`    | Hosting & deployment          |
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Tusharxhub/yoom.git
+cd yoom
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+
+### 3. Run the app
+
+```bash
+npm run dev
+```
+
+> 💡 Ensure you have valid LiveKit and Clerk credentials.
+
+---
+
+## 📁 Project Structure
+
+```
+yoom/
+├── app/                 → App Router layout
+├── components/          → UI elements
+├── hooks/               → Custom React hooks
+├── lib/                 → Utility libraries
+├── styles/              → Tailwind configs
+├── public/              → Static assets
+└── .env.local           → Environment variables
+```
+
+---
+
+## 🤝 Contributing
+
+We welcome your PRs and ideas! Here's how to get started:
+
+```bash
+# Fork this repo
+git clone https://github.com/your-username/yoom
+cd yoom
+npm install
+
+# Create your feature branch
+git checkout -b feature/cool-feature
+```
+
+Then push and open a PR 🚀
+
+---
+
+## ❓ FAQs
+
+> **Can I deploy this myself?**  
+> ✅ Yes, you just need your own Clerk & LiveKit credentials.
+
+> **Do I need to use Clerk?**  
+> 🔒 Yes — authentication relies on Clerk's auth system.
+
+> **Can I contribute features or report bugs?**  
+> 🔧 Absolutely. Please open an issue or PR.
+
+---
+
+## ♿ Accessibility
+
+- ✔ Semantic HTML tags  
+- ✔ ARIA labels in progress  
+- ✔ Keyboard navigation  
+- ⏳ Color contrast improvements coming soon
+
+---
+
+## 🧲 SEO & Meta
+
+- OG image & social card support  
+- Meta tags for better link previews  
+- SEO-friendly dynamic meeting URLs
+
+---
+
+## 🧑‍💼 Author
+
+**Tushar Dey**  
+📧 [Email Me](mailto:t.k.d.dey2033929837@gmail.com)  
+🔗 [GitHub](https://github.com/Tusharxhub)  
+📸 [Instagram](https://www.instagram.com/tushardevx01/)
+
+---
+
+## 🌟 Show Your Support
+
+If you found this project helpful, consider:
+
+- ⭐ Starring the repo  
+- 📤 Sharing with friends  
+- 📝 Submitting feedback
+
