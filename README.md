@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> 🚀 **Check it out live:** [click me](https://yoom-psi.vercel.app)
+> 🚀 **Check it out live:** [click me](https:https://yoom-chi-ten.vercel.app/)
 
 ---
 
