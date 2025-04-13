@@ -2,14 +2,6 @@
 <h1 align="center">🎥 Yoom</h1>
 <p align="center">A sleek Google Meet-style video calling platform built with <b>Next.js</b>, <b>LiveKit</b>, and <b>Clerk</b>.</p>
 
-<p align="center">
-  <a href="https://yoom-psi.vercel.app" target="_blank">
-    <img src="https://github.com/Tusharxhub/yoom/blob/main/public/images/ui.png?raw=true" />
-  </a>
-  <img src="https://img.shields.io/github/languages/top/Tusharxhub/yoom?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/Tusharxhub/yoom?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Tusharxhub/yoom?style=for-the-badge" />
-</p>
 
 <br/>
 
@@ -18,8 +10,8 @@
 ## 🖼️ Live Preview
 
 <p align="center">
-  <a href="https://yoom-psi.vercel.app" target="_blank">
-    <img src="https://yoom-psi.vercel.app/og.png" width="85%" alt="Yoom Preview Image" />
+  <a href="https://github.com/Tusharxhub/yoom/blob/main/public/images/ui.png?raw=tru">
+    <img src="https://github.com/Tusharxhub/yoom/blob/main/public/images/ui.png?raw=true" />
   </a>
 </p>
 
@@ -147,7 +139,7 @@ Then push and open a PR 🚀
 
 ## 🧑‍💼 Author
 
-**Tushar Dey**  
+**Tushar**  
 📧 [Email Me](mailto:t.k.d.dey2033929837@gmail.com)  
 🔗 [GitHub](https://github.com/Tusharxhub)  
 📸 [Instagram](https://www.instagram.com/tushardevx01/)
