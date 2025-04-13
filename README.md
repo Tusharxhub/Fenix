@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://yoom-psi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" alt="Live Demo" />
+    <img src="https://github.com/Tusharxhub/yoom/blob/main/public/images/ui.png?raw=true" />
   </a>
   <img src="https://img.shields.io/github/languages/top/Tusharxhub/yoom?style=for-the-badge" />
   <img src="https://img.shields.io/github/license/Tusharxhub/yoom?style=for-the-badge" />
