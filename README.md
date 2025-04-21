@@ -1,5 +1,5 @@
 
-<h1 align="center">🎥 Yoom</h1>
+<h1 align="center">🎥 Fenix</h1>
 <p align="center">A sleek Google Meet-style video calling platform built with <b>Next.js</b>, <b>LiveKit</b>, and <b>Clerk</b>.</p>
 
 
@@ -10,12 +10,12 @@
 ## 🖼️ Live Preview
 
 <p align="center">
-  <a href="https://github.com/Tusharxhub/yoom/blob/main/public/images/ui.png?raw=tru">
-    <img src="https://github.com/Tusharxhub/yoom/blob/main/public/images/ui.png?raw=true" />
+  <a href="https://github.com/Tusharxhub/Fenix/blob/main/public/images/ui.png?raw=tru">
+    <img src="https://github.com/Tusharxhub/Fenix/blob/main/public/images/ui.png?raw=true" />
   </a>
 </p>
 
-> 🚀 **Check it out live:** [Click me](https://yoom-chi-ten.vercel.app/)
+> 🚀 **Check it out live:** [Click me](https://Fenix-chi-ten.vercel.app/)
 
 ---
 
@@ -53,8 +53,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Tusharxhub/yoom.git
-cd yoom
+git clone https://github.com/Tusharxhub/Fenix.git
+cd Fenix
 ```
 
 ### 2. Install dependencies
@@ -77,7 +77,7 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-yoom/
+Fenix/
 ├── app/                 → App Router layout
 ├── components/          → UI elements
 ├── hooks/               → Custom React hooks
@@ -95,8 +95,8 @@ We welcome your PRs and ideas! Here's how to get started:
 
 ```bash
 # Fork this repo
-git clone https://github.com/your-username/yoom
-cd yoom
+git clone https://github.com/your-username/Fenix
+cd Fenix
 npm install
 
 # Create your feature branch
