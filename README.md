@@ -10,7 +10,7 @@
 ## 🖼️ Live Preview
 
 <p align="center">
-  <a href="https://github.com/Tusharxhub/Fenix/blob/main/public/images/ui.png?raw=tru">
+  <a href="https://github.com/Tusharxhub/Fenix/blob/main/public/images/ui.png?raw=true">
     <img src="https://github.com/Tusharxhub/Fenix/blob/main/public/images/ui.png?raw=true" />
   </a>
 </p>
