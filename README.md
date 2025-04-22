@@ -1,6 +1,6 @@
 
 <h1 align="center">🎥 Fenix</h1>
-<p align="center">A sleek Google Meet-style video calling platform built with <b>Next.js</b>, <b>LiveKit</b>, and <b>Clerk</b>.</p>
+<p align="center">A modern streamlined video calling platform built with <b>Next.js</b>, <b>LiveKit</b>, and <b>Clerk</b>.</p>
 
 
 <br/>
