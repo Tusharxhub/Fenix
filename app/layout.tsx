@@ -1,6 +1,7 @@
 import { ReactNode } from "react";
 import type { Metadata } from "next";
 import { ClerkProvider } from "@clerk/nextjs";
+// eslint-disable-next-line camelcase
 import { Sora, Space_Grotesk } from "next/font/google";
 
 import "@stream-io/video-react-sdk/dist/css/styles.css";

@@ -1,4 +1,5 @@
 'use client';
+/* eslint-disable tailwindcss/classnames-order */
 
 import { useEffect, useMemo, useState } from 'react';
 import { motion } from 'framer-motion';
@@ -58,7 +59,7 @@ export function Hero({ userName, nextMeeting }: HeroProps) {
       className="relative overflow-hidden rounded-3xl border border-white/15 bg-[#0D1422] px-5 py-8 md:px-8 md:py-10"
     >
       <div className="hero-gradient absolute inset-0" />
-      <div className="pointer-events-none absolute inset-0 noise-overlay" />
+      <div className="absolute inset-0 pointer-events-none noise-overlay" />
       <div className="pointer-events-none absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-[#0B0F19] to-transparent" />
 
       <div className="relative z-10 flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">

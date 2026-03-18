@@ -1,4 +1,5 @@
 'use client';
+/* eslint-disable tailwindcss/classnames-order */
 
 import { type ReactNode, useState } from 'react';
 
@@ -10,8 +11,8 @@ export default function DashboardLayout({ children }: { children: ReactNode }) {
 
   return (
     <div className="relative min-h-screen bg-[#0B0F19] text-white">
-      <div className="pointer-events-none fixed inset-0 hero-gradient opacity-60" />
-      <div className="pointer-events-none fixed inset-0 noise-overlay opacity-50" />
+      <div className="fixed inset-0 pointer-events-none hero-gradient opacity-60" />
+      <div className="fixed inset-0 pointer-events-none noise-overlay opacity-50" />
 
       <Sidebar isCollapsed={collapsed} onToggleCollapse={() => setCollapsed((prev) => !prev)} />
 
