@@ -1,8 +1,8 @@
 import Link from 'next/link';
 import Image from 'next/image';
 
-import { Button } from './ui/button';
-import { Card, CardContent } from './ui/card';
+import { Button } from './ui/Button';
+import { Card, CardContent } from './ui/Card';
 
 interface PermissionCardProps {
   title: string;

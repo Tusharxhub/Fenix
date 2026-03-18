@@ -19,6 +19,11 @@ const config = {
     },
     extend: {
       colors: {
+        app: {
+          bg: '#0B0F19',
+          panel: '#0D1422',
+          border: 'rgba(255,255,255,0.14)',
+        },
         dark: {
           1: '#1C1F2E',
           2: '#161925',
@@ -52,13 +57,23 @@ const config = {
           from: { height: 'var(--radix-accordion-content-height)' },
           to: { height: '0' },
         },
+        float: {
+          '0%, 100%': { transform: 'translateY(0px)' },
+          '50%': { transform: 'translateY(-5px)' },
+        },
       },
       animation: {
         'accordion-down': 'accordion-down 0.2s ease-out',
         'accordion-up': 'accordion-up 0.2s ease-out',
+        float: 'float 5s ease-in-out infinite',
       },
       backgroundImage: {
         hero: "url('/images/hero-background.png')",
+      },
+      boxShadow: {
+        neonBlue: '0 0 36px rgba(77, 162, 255, 0.35)',
+        neonPurple: '0 0 36px rgba(145, 91, 255, 0.35)',
+        neonOrange: '0 0 36px rgba(255, 157, 80, 0.35)',
       },
     },
   },
